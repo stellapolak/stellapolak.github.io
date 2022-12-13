@@ -23,7 +23,8 @@ p {
   }
   
 
-.bem {
+p .bem {
     font-family: 'Codystar', cursive;
+    color: yellow;
 }
   
